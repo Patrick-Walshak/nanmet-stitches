@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Marquee from '../components/ui/Marquee'
 import { useReveal } from '../hooks/useReveal'
 // import { SERVICES, GALLERY_ITEMS, TESTIMONIALS } from '../data/content'
-import heroImg from '/public/images/hero-img.jpg'
+import heroImg from '/images/hero-img.jpg'
 import { SERVICES, TESTIMONIALS, ABOUT, BRAND } from '../data/content'
 
 
